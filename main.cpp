@@ -23,10 +23,6 @@
 #include <iostream>
 #include "tinyxml2.h"
 
-// This program connects to the Windows WLAN API to retrieve and display WiFi profiles and their passwords.
-// It lists SSID, authentication method, and plaintext password of each profile stored by the WLAN service on the system.
-// Inspired by John Hammond
-
 // Ensures linkage with necessary libraries for WLAN API and COM services.
 #pragma comment(lib, "wlanapi.lib")
 #pragma comment(lib, "ole32.lib")
