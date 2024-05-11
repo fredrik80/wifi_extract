@@ -7,7 +7,7 @@ It lists SSID, authentication method, and plaintext password of each profile sto
 
 - **Inspired by John Hammond**: This project takes inspiration from the works of John Hammond in cybersecurity and network analysis.
 
-- **TinyXML2**: This project uses TinyXML2 for XML handling, originally developed by Lee Thomason (www.grinninglizard.com/tinyxml2). TinyXML2 is used under its zLib-like license that permits free use, modification, and redistribution of the source code. See the [LICENSE](./LICENSE.txt) file for more details on our project's license and the licenses of third-party libraries.
+- **TinyXML2**: This project uses TinyXML2 for XML handling, originally developed by Lee Thomason - https://github.com/leethomason/tinyxml2. TinyXML2 is used under its zLib-like license that permits free use, modification, and redistribution of the source code.
 
 ## License
 
